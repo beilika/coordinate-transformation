@@ -1,6 +1,6 @@
-# coordinatetransformation
+# coordinate transformation
 
-百度，腾讯，高德地图坐标转换，即bd09，gcj02坐标转换类
+百度，腾讯，高德地图坐标转换类，即bd09，gcj02坐标转换类
 
 ## 使用方法
 
